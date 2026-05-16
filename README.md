@@ -204,6 +204,5 @@ input_shape=(227, 227, 3)
 **Albaraa Abdulmajeed Aljaber**
 Data Science & AI Student — The Hashemite University
 
-📧 [your.email@example.com]
-💼 [linkedin.com/in/your-handle]
-🌐 [yourname.com]
+📧 [albaraaljaberwork@gmail.com]
+💼 [https://www.linkedin.com/in/albara-aljaber/]
