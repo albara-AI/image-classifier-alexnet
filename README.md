@@ -93,7 +93,7 @@ Dense(num_classes) → Softmax
 
 ```
 image-classifier-alexnet/
-├── 2239515.ipynb                    ← Main training notebook
+├── alexnet.ipynb                    ← Main training notebook
 ├── training_metrics_plot.png        ← Accuracy & Loss curves
 ├── requirements.txt                 ← Dependencies
 └── README.md
